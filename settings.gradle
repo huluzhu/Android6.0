@@ -1,0 +1,1 @@
+include ':app', ':android6.0', ':android6.0权限封装'
